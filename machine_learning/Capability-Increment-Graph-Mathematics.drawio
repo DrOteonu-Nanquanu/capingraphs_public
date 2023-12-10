@@ -1,42 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T23:35:16.424Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="3LxykVeb8YW58QYIhf4F" version="22.0.8" type="device" pages="2">
-  <diagram id="B7K4dlUMo49jTZ7MUKLO" name="Page-1">
-    <mxGraphModel dx="976" dy="3883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="VubCMFE6i79kwyD0t57Z-1" value="&lt;div&gt;[probability theory] Understanding discrete sample spaces&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-2590" width="355" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="VubCMFE6i79kwyD0t57Z-2" value="&lt;div&gt;[probability theory] how is it possible that a discrete sample space can be infinite? Wouldn&#39;t that lead to an infinite value of the probability measure on the whole space? [Answer: no, after a all, an infinite sum can be finite for example sum{n=1..infinite}{1/(2^n)}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-2330" width="355" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="v8K0t_mxKD4SibOHJrIX-1" value="&lt;div&gt;[probability theory] That is the umbrella term for probability mass function and probability density function?&lt;/div&gt;&lt;div&gt;Answer: probability distribution [verified with wikipedia and with chatgpt]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="-2580" width="355" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="v8K0t_mxKD4SibOHJrIX-2" value="&lt;div&gt;[probability theory] What is the discrete counterpart to probability density function?&lt;/div&gt;&lt;div&gt;Answer: probability mass function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="-2360" width="355" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="v8K0t_mxKD4SibOHJrIX-3" value="&lt;div&gt;[probability theory] What is the name of the function F(a) = P( x &amp;lt; a )&lt;/div&gt;&lt;div&gt;Answer: cumulative probability distribution function, or just probability distribution function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-2120" width="355" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="v8K0t_mxKD4SibOHJrIX-4" value="&lt;div&gt;[probability theory] confuser: the term &quot;probability distribution&quot; is both used for the general notion (encompassing any notion that relates outcomes to probabilities), as well as an abbreviation for &quot;cumulative probability distribution&quot; but only in the expression &quot;probability distribution function&quot;. I.e. if you read &quot;probability distribution function&quot; it means &quot;cummulative probability distribution function&quot;. While if you read &quot;probabiliy distribution&quot; it is the umbrella term.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="-1880" width="355" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="py02fO8jr5Cy9zJD8t3z-1" value="Restuy analysis Markov Process:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Chide(2nov2023)|: I noticed I had trouble to regenerate the formal definition of a Markov process, while I still knew the informal definition. When re-reading it, I notice that there is something strange in the definition. It is a kind of &quot;differential&quot; definition: it states that there is no difference between the conditional probability with all outcomes of previous variables, and the conditional probabiltiy with only the outcome of the previous variable. I was struggling with formasling indeed exactly that, because in my mind I still knew &quot;the probability distribution of X_n only depends on the outcome of the previous variable&quot;.&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-2030" width="390" height="210" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="YIDISZ5j-MkfsONC32Az" name="Page-2">
-    <mxGraphModel dx="966" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="ufQSiUkCF_DbAvPZzFqI-0" />
-        <mxCell id="ufQSiUkCF_DbAvPZzFqI-1" parent="ufQSiUkCF_DbAvPZzFqI-0" />
-        <mxCell id="ufQSiUkCF_DbAvPZzFqI-2" value="&lt;div&gt;Terminology:&lt;/div&gt;&lt;div&gt;raising something to a power = exponentiation.&lt;/div&gt;&lt;div&gt;to raise to power = exponentiate&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ufQSiUkCF_DbAvPZzFqI-1">
-          <mxGeometry x="100" y="170" width="316.67" height="190" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e" pages="2">
+    <diagram id="B7K4dlUMo49jTZ7MUKLO" name="Page-1">
+        <mxGraphModel dx="500" dy="3799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="VubCMFE6i79kwyD0t57Z-1" value="&lt;div&gt;[probability theory] Understanding discrete sample spaces&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="-2590" width="355" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="VubCMFE6i79kwyD0t57Z-2" value="&lt;div&gt;[probability theory] how is it possible that a discrete sample space can be infinite? Wouldn't that lead to an infinite value of the probability measure on the whole space? [Answer: no, after a all, an infinite sum can be finite for example sum{n=1..infinite}{1/(2^n)}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="-2330" width="355" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="v8K0t_mxKD4SibOHJrIX-1" value="&lt;div&gt;[probability theory] That is the umbrella term for probability mass function and probability density function?&lt;/div&gt;&lt;div&gt;Answer: probability distribution [verified with wikipedia and with chatgpt]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="-2580" width="355" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="v8K0t_mxKD4SibOHJrIX-2" value="&lt;div&gt;[probability theory] What is the discrete counterpart to probability density function?&lt;/div&gt;&lt;div&gt;Answer: probability mass function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="-2360" width="355" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="v8K0t_mxKD4SibOHJrIX-3" value="&lt;div&gt;[probability theory] What is the name of the function F(a) = P( x &amp;lt; a )&lt;/div&gt;&lt;div&gt;Answer: cumulative probability distribution function, or just probability distribution function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="-2120" width="355" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="v8K0t_mxKD4SibOHJrIX-4" value="&lt;div&gt;[probability theory] confuser: the term &quot;probability distribution&quot; is both used for the general notion (encompassing any notion that relates outcomes to probabilities), as well as an abbreviation for &quot;cumulative probability distribution&quot; but only in the expression &quot;probability distribution function&quot;. I.e. if you read &quot;probability distribution function&quot; it means &quot;cummulative probability distribution function&quot;. While if you read &quot;probabiliy distribution&quot; it is the umbrella term.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="-1880" width="355" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="py02fO8jr5Cy9zJD8t3z-1" value="Restuy analysis Markov Process:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Chide(2nov2023)|: I noticed I had trouble to regenerate the formal definition of a Markov process, while I still knew the informal definition. When re-reading it, I notice that there is something strange in the definition. It is a kind of &quot;differential&quot; definition: it states that there is no difference between the conditional probability with all outcomes of previous variables, and the conditional probabiltiy with only the outcome of the previous variable. I was struggling with formasling indeed exactly that, because in my mind I still knew &quot;the probability distribution of X_n only depends on the outcome of the previous variable&quot;.&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="-2030" width="390" height="210" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="YIDISZ5j-MkfsONC32Az" name="Page-2">
+        <mxGraphModel dx="966" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="ufQSiUkCF_DbAvPZzFqI-0"/>
+                <mxCell id="ufQSiUkCF_DbAvPZzFqI-1" parent="ufQSiUkCF_DbAvPZzFqI-0"/>
+                <mxCell id="ufQSiUkCF_DbAvPZzFqI-2" value="&lt;div&gt;Terminology:&lt;/div&gt;&lt;div&gt;raising something to a power = exponentiation.&lt;/div&gt;&lt;div&gt;to raise to power = exponentiate&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ufQSiUkCF_DbAvPZzFqI-1">
+                    <mxGeometry x="100" y="170" width="316.67" height="190" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
