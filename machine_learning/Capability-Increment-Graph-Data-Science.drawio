@@ -1,0 +1,16 @@
+<mxfile host="65bd71144e">
+    <diagram id="cEnMtw285Pn_Y_v2TCzA" name="Page-1">
+        <mxGraphModel dx="8200" dy="14380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=17;" vertex="1" parent="1">
+                    <mxGeometry x="6890" y="-3950" width="7410" height="6170" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;div style=&quot;font-size: 53px;&quot;&gt;Brainstorm graph data science&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=53;fontStyle=5" vertex="1" parent="1">
+                    <mxGeometry x="10312.4" y="-3240" width="565.2" height="300" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
