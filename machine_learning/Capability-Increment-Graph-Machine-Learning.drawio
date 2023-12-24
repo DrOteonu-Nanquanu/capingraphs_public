@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram id="AA55DDw83Qh9yjEBtLau" name="orcoba-structure">
-        <mxGraphModel dx="21790" dy="17680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="3715" dy="8116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -632,8 +632,8 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="eBQuyIYxfwORe-5xOfRY-320" value="Basic understanding of AI learning paradigms" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-                    <mxGeometry x="-783.4954462659381" y="-5723.577235772358" width="141.3009107468124" height="89.91869918699187" as="geometry"/>
+                <mxCell id="eBQuyIYxfwORe-5xOfRY-320" value="Basic understanding of machine learning paradigms" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="-783.4954462659381" y="-5706.317235772358" width="141.3009107468124" height="89.91869918699187" as="geometry"/>
                 </mxCell>
                 <mxCell id="eBQuyIYxfwORe-5xOfRY-231" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="eBQuyIYxfwORe-5xOfRY-232" target="eBQuyIYxfwORe-5xOfRY-320" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1174,6 +1174,9 @@
                 </mxCell>
                 <mxCell id="kAZ7G1V-D4qZIf0FqhDx-4" value="&lt;div&gt;Standard name for the collection of variables that you use to predict the target variable?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Answer: feature vector, input vector. Less common is &quot;predictor vector&quot;.&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1920" y="-2280" width="355" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;div&gt;Basic understanding of machine learning&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="-651.9879234972677" y="-5920.267235772357" width="166.991985428051" height="83.4959349593496" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
