@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram id="AA55DDw83Qh9yjEBtLau" name="orcoba-structure">
-        <mxGraphModel dx="3260" dy="8072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="4337" dy="8469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1397,23 +1397,29 @@
                 <mxCell id="57" value="&lt;div align=&quot;left&quot;&gt;o Reply of chat gpt, is that for English, it is typically enforced that the tokens are NOT multi-word. But that does not hold for all languages: &quot;https://chat.openai.com/share/f005d2af-0f8b-4c00-a244-151a2174412d&quot;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Chide(24feb2024)|: &lt;br&gt;&lt;/div&gt;Can one token also span multiple words?&lt;br&gt;&lt;br&gt;o Chatgpt: &quot;In probabilistic tokenizations used in large language models (LLMs) like&lt;br&gt; GPT-3, homonyms are typically treated as different tokens because they &lt;br&gt;have different meanings and contexts in language. Each word or sequence &lt;br&gt;of characters that represents a distinct meaning or usage is typically &lt;br&gt;tokenized separately.&quot;&lt;br&gt;Chide(24feb2024)|: Are homonyms treated as different tokens? For example &quot;row&quot; as in &quot;rowing&quot; and &quot;row&quot; as a sequence?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" parent="1" vertex="1">
                     <mxGeometry x="6160" y="-6249.09" width="450" height="219.09" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="Fuzzy capability: understand layer normalization (in the context of transformers)" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                <mxCell id="61" value="Fuzzy capability: understand layer normalization (in the context of transformers)" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
                     <mxGeometry x="8280" y="-6186.41" width="300" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="60" value="o Often they work with batches of multiple sequences. Is the position &quot;reset&quot; for each sequence. I.e. does each sequence first token have positon 0?&lt;br&gt;o How are position indices assigned? Does the first word in the input sequence get pos=0, regardles of whether there are multiple sentences in a sequence?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" parent="1" vertex="1">
                     <mxGeometry x="7690" y="-6275.93" width="450" height="219.09" as="geometry"/>
                 </mxCell>
-                <mxCell id="62" value="Layer normalization in transformers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                <mxCell id="62" value="Layer normalization in transformers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
                     <mxGeometry x="7520" y="-5310" width="285" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" value="Chide(21mar2024)|: Be aware that &quot;layer normalization&quot; as used in the article &lt;a href=&quot;https://arxiv.org/abs/1607.06450&quot;&gt;Layer Normalization Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton&lt;/a&gt; is not equal to " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" vertex="1" parent="1">
+                <mxCell id="64" value="Chide(21mar2024)|: Be aware that &quot;layer normalization&quot; as used in the article &lt;a href=&quot;https://arxiv.org/abs/1607.06450&quot;&gt;Layer Normalization Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton&lt;/a&gt; is not equal to " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" parent="1" vertex="1">
                     <mxGeometry x="8660" y="-6249.09" width="450" height="219.09" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="Defining all types of learnable parameters of an original transformer." style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="7850" y="-6002.09" width="300" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="RUvgzO9p1pG32KWx-_kC-65" value="Learnable parameters of an ANN model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="4367.12" y="-4780" width="170" height="70" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="sD7p5IzPbQsNOeiUjZur" name="domain-eerg">
-        <mxGraphModel dx="922" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+        <mxGraphModel dx="1340" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
             <root>
                 <mxCell id="mkhQnHASV8la3oyavxDH-0"/>
                 <mxCell id="mkhQnHASV8la3oyavxDH-1" parent="mkhQnHASV8la3oyavxDH-0"/>
