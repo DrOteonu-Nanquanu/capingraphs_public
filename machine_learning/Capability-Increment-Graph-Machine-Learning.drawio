@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram id="AA55DDw83Qh9yjEBtLau" name="orcoba-structure">
-        <mxGraphModel dx="2977" dy="8030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="3622" dy="8162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1404,7 +1404,7 @@
                     <mxGeometry x="7690" y="-6275.93" width="450" height="219.09" as="geometry"/>
                 </mxCell>
                 <mxCell id="62" value="Layer normalization in transformers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-                    <mxGeometry x="7520" y="-5310" width="285" height="100" as="geometry"/>
+                    <mxGeometry x="7600" y="-5275.39" width="285" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="64" value="Chide(21mar2024)|: Be aware that &quot;layer normalization&quot; as used in the article &lt;a href=&quot;https://arxiv.org/abs/1607.06450&quot;&gt;Layer Normalization Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton&lt;/a&gt; is not equal to " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" parent="1" vertex="1">
                     <mxGeometry x="8660" y="-6249.09" width="450" height="219.09" as="geometry"/>
@@ -1415,14 +1415,20 @@
                 <mxCell id="RUvgzO9p1pG32KWx-_kC-65" value="Learnable parameters of an ANN model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
                     <mxGeometry x="4367.12" y="-4780" width="170" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="66" value="* Chide(15apr2024)|: see &lt;a href=&quot;https://chat.openai.com/c/b08fd5ac-c583-41b9-aa7a-1c6a0d04f572&quot;&gt;https://chat.openai.com/c/b08fd5ac-c583-41b9-aa7a-1c6a0d04f572&lt;br&gt;&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" vertex="1" parent="1">
+                <mxCell id="66" value="* Chide(15apr2024)|: see &lt;a href=&quot;https://chat.openai.com/c/b08fd5ac-c583-41b9-aa7a-1c6a0d04f572&quot;&gt;https://chat.openai.com/c/b08fd5ac-c583-41b9-aa7a-1c6a0d04f572&lt;br&gt;&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" parent="1" vertex="1">
                     <mxGeometry x="8205" y="-6044.07" width="450" height="219.09" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="Token x &lt;i&gt;&lt;b&gt;attends to&lt;/b&gt;&lt;/i&gt; token y" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="7600" y="-5155.61" width="285" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="* Chide(20apr2024)|: I think this means: the relevance of token y's semantics to token x's semantics. To be precise: do determine the degree that token x attends to token y, you need the query-vector of x and the key-vector of y. But I am not certain whether it is not the exact opposite." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="7970" y="-5216" width="450" height="219.09" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="sD7p5IzPbQsNOeiUjZur" name="domain-eerg">
-        <mxGraphModel dx="747" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+        <mxGraphModel dx="1340" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
             <root>
                 <mxCell id="mkhQnHASV8la3oyavxDH-0"/>
                 <mxCell id="mkhQnHASV8la3oyavxDH-1" parent="mkhQnHASV8la3oyavxDH-0"/>
