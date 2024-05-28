@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram id="AA55DDw83Qh9yjEBtLau" name="orcoba-structure">
-        <mxGraphModel dx="5830" dy="9055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="3317" dy="8134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1454,11 +1454,17 @@
                 <mxCell id="74" value="* Chide(28may2024)|: See &lt;a href=&quot;https://g.co/gemini/share/6042b5861a90&quot;&gt;https://g.co/gemini/share/6042b5861a90&lt;br&gt;&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" vertex="1" parent="1">
                     <mxGeometry x="8030" y="-4859" width="410" height="86" as="geometry"/>
                 </mxCell>
+                <mxCell id="ynwPB2oFPbzzlWKqPaWK-75" value="Choosing a good block-size and good context-window size, also in relation to each other." style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="7970" y="-5713.9400000000005" width="300" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="ynwPB2oFPbzzlWKqPaWK-76" value="* Chide(28may2024)|: see &lt;a href=&quot;https://g.co/gemini/share/c93210d8adc1&quot;&gt;https://g.co/gemini/share/c93210d8adc1&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;verticalAlign=top;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="8340" y="-5747.0599999999995" width="450" height="219.09" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="sD7p5IzPbQsNOeiUjZur" name="domain-eerg">
-        <mxGraphModel dx="1312" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+        <mxGraphModel dx="959" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
             <root>
                 <mxCell id="mkhQnHASV8la3oyavxDH-0"/>
                 <mxCell id="mkhQnHASV8la3oyavxDH-1" parent="mkhQnHASV8la3oyavxDH-0"/>
