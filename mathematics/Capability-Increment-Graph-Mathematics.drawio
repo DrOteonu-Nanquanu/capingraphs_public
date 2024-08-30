@@ -1,39 +1,171 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram id="B7K4dlUMo49jTZ7MUKLO" name="Page-1">
-        <mxGraphModel dx="500" dy="3799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="962" dy="5398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="VubCMFE6i79kwyD0t57Z-1" value="&lt;div&gt;[probability theory] Understanding discrete sample spaces&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="-2590" width="355" height="190" as="geometry"/>
+                    <mxGeometry x="1920" y="-2700" width="355" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="VubCMFE6i79kwyD0t57Z-2" value="&lt;div&gt;[probability theory] how is it possible that a discrete sample space can be infinite? Wouldn't that lead to an infinite value of the probability measure on the whole space? [Answer: no, after a all, an infinite sum can be finite for example sum{n=1..infinite}{1/(2^n)}&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="140" y="-2330" width="355" height="190" as="geometry"/>
+                    <mxGeometry x="1980" y="-2440" width="355" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="v8K0t_mxKD4SibOHJrIX-1" value="&lt;div&gt;[probability theory] That is the umbrella term for probability mass function and probability density function?&lt;/div&gt;&lt;div&gt;Answer: probability distribution [verified with wikipedia and with chatgpt]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="610" y="-2580" width="355" height="190" as="geometry"/>
+                    <mxGeometry x="2450" y="-2690" width="355" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="v8K0t_mxKD4SibOHJrIX-2" value="&lt;div&gt;[probability theory] What is the discrete counterpart to probability density function?&lt;/div&gt;&lt;div&gt;Answer: probability mass function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="620" y="-2360" width="355" height="190" as="geometry"/>
+                    <mxGeometry x="2460" y="-2470" width="355" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="v8K0t_mxKD4SibOHJrIX-3" value="&lt;div&gt;[probability theory] What is the name of the function F(a) = P( x &amp;lt; a )&lt;/div&gt;&lt;div&gt;Answer: cumulative probability distribution function, or just probability distribution function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="600" y="-2120" width="355" height="190" as="geometry"/>
+                    <mxGeometry x="2440" y="-2230" width="355" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="v8K0t_mxKD4SibOHJrIX-4" value="&lt;div&gt;[probability theory] confuser: the term &quot;probability distribution&quot; is both used for the general notion (encompassing any notion that relates outcomes to probabilities), as well as an abbreviation for &quot;cumulative probability distribution&quot; but only in the expression &quot;probability distribution function&quot;. I.e. if you read &quot;probability distribution function&quot; it means &quot;cummulative probability distribution function&quot;. While if you read &quot;probabiliy distribution&quot; it is the umbrella term.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="620" y="-1880" width="355" height="190" as="geometry"/>
+                    <mxGeometry x="2460" y="-1990" width="355" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="py02fO8jr5Cy9zJD8t3z-1" value="Restuy analysis Markov Process:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Chide(2nov2023)|: I noticed I had trouble to regenerate the formal definition of a Markov process, while I still knew the informal definition. When re-reading it, I notice that there is something strange in the definition. It is a kind of &quot;differential&quot; definition: it states that there is no difference between the conditional probability with all outcomes of previous variables, and the conditional probabiltiy with only the outcome of the previous variable. I was struggling with formasling indeed exactly that, because in my mind I still knew &quot;the probability distribution of X_n only depends on the outcome of the previous variable&quot;.&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="120" y="-2030" width="390" height="210" as="geometry"/>
+                    <mxGeometry x="1960" y="-2140" width="390" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-2" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-4" target="SrYzJ1p3SyJMcJKfYAmm-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-4" target="SrYzJ1p3SyJMcJKfYAmm-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-4" value="Capability-EERG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=41;fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="1090" y="-2690" width="440" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-6" target="SrYzJ1p3SyJMcJKfYAmm-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="1167.5" y="-2620" width="285" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-8" target="SrYzJ1p3SyJMcJKfYAmm-21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="1090" y="-2460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-10" target="SrYzJ1p3SyJMcJKfYAmm-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="1390" y="-2460" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="1390" y="-2280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-12" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-8" target="SrYzJ1p3SyJMcJKfYAmm-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1142.5" y="-2480" as="sourcePoint"/>
+                        <mxPoint x="1242.5" y="-2480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-13" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SrYzJ1p3SyJMcJKfYAmm-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-14" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="SrYzJ1p3SyJMcJKfYAmm-12">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-15" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-10" target="SrYzJ1p3SyJMcJKfYAmm-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1410" y="-2490" as="sourcePoint"/>
+                        <mxPoint x="1510" y="-2490" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-16" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SrYzJ1p3SyJMcJKfYAmm-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-17" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="SrYzJ1p3SyJMcJKfYAmm-15">
+                    <mxGeometry x="-0.0857" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-18" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-11" target="SrYzJ1p3SyJMcJKfYAmm-10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1060" y="-2340" as="sourcePoint"/>
+                        <mxPoint x="1200" y="-2390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-19" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SrYzJ1p3SyJMcJKfYAmm-18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-20" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="SrYzJ1p3SyJMcJKfYAmm-18">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="1090" y="-2300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-22" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-21" target="SrYzJ1p3SyJMcJKfYAmm-8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1050" y="-2310" as="sourcePoint"/>
+                        <mxPoint x="1050" y="-2390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-23" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SrYzJ1p3SyJMcJKfYAmm-22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-24" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="SrYzJ1p3SyJMcJKfYAmm-22">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="1280" y="-2150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-26" value="&lt;div&gt;The (standard) perceptron&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="1510" y="-2150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-27" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-25" target="SrYzJ1p3SyJMcJKfYAmm-11">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1319.7600000000002" y="-2215" as="sourcePoint"/>
+                        <mxPoint x="1319.7600000000002" y="-2325" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-28" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SrYzJ1p3SyJMcJKfYAmm-27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-29" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="SrYzJ1p3SyJMcJKfYAmm-27">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-30" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="SrYzJ1p3SyJMcJKfYAmm-26" target="SrYzJ1p3SyJMcJKfYAmm-11">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1370" y="-2140" as="sourcePoint"/>
+                        <mxPoint x="1460" y="-2210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-31" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SrYzJ1p3SyJMcJKfYAmm-30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SrYzJ1p3SyJMcJKfYAmm-32" value="isInstanceOf" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="SrYzJ1p3SyJMcJKfYAmm-30">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dbns9WHfu9ufIIii2Yxu-2" value="&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Dialogue (top-posted)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;* Chide(8oct2023)|: TODO: this is an older version than the graph posted to the left. Check/verify if all of it has been integrated in that newer version.&lt;/span&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;* Chide(8oct2023)|: The graph below covers *all* of AI, not only machine learning. * Chide(6oct2023)|: Below is a copy/paste of the basic capingraph for AI as it was on 21sep2021. There is a newer version created in collab with the Pol. TODO: add&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="640.0000000000009" y="-3210" width="976.63" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="dbns9WHfu9ufIIii2Yxu-3" value="&lt;div&gt;Capability-increment-graph Functional Analysis&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=41;fontStyle=5" vertex="1" parent="1">
+                    <mxGeometry x="843.3100000000004" y="-3600" width="565.2" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="dbns9WHfu9ufIIii2Yxu-4" value="&lt;font style=&quot;&quot;&gt;&lt;br&gt;This graph should be constructed according to Capingraph-Lang V0.2. See:&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;https://wiki.nanquanu.org/tiki/tiki-list_file_gallery.php?galleryId=19&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;https://wiki.nanquanu.org/tiki/NanquademyApproach--CompositionRecord#Syntax_and_semantics_of_capability-increment-graphs&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="793.3100000000004" y="-3480" width="690" height="260" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="YIDISZ5j-MkfsONC32Az" name="Page-2">
-        <mxGraphModel dx="966" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1924" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="ufQSiUkCF_DbAvPZzFqI-0"/>
                 <mxCell id="ufQSiUkCF_DbAvPZzFqI-1" parent="ufQSiUkCF_DbAvPZzFqI-0"/>
-                <mxCell id="ufQSiUkCF_DbAvPZzFqI-2" value="&lt;div&gt;Terminology:&lt;/div&gt;&lt;div&gt;raising something to a power = exponentiation.&lt;/div&gt;&lt;div&gt;to raise to power = exponentiate&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ufQSiUkCF_DbAvPZzFqI-1">
+                <mxCell id="ufQSiUkCF_DbAvPZzFqI-2" value="&lt;div&gt;Terminology:&lt;/div&gt;&lt;div&gt;raising something to a power = exponentiation.&lt;/div&gt;&lt;div&gt;to raise to power = exponentiate&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="ufQSiUkCF_DbAvPZzFqI-1" vertex="1">
                     <mxGeometry x="100" y="170" width="316.67" height="190" as="geometry"/>
                 </mxCell>
             </root>
