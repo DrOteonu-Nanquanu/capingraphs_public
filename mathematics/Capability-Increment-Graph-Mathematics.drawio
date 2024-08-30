@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram id="B7K4dlUMo49jTZ7MUKLO" name="Page-1">
-        <mxGraphModel dx="962" dy="5398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="566" dy="4987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -156,6 +156,18 @@
                 </mxCell>
                 <mxCell id="dbns9WHfu9ufIIii2Yxu-4" value="&lt;font style=&quot;&quot;&gt;&lt;br&gt;This graph should be constructed according to Capingraph-Lang V0.2. See:&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;https://wiki.nanquanu.org/tiki/tiki-list_file_gallery.php?galleryId=19&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;https://wiki.nanquanu.org/tiki/NanquademyApproach--CompositionRecord#Syntax_and_semantics_of_capability-increment-graphs&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
                     <mxGeometry x="793.3100000000004" y="-3480" width="690" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="yE7slKLqn4e8WR9LVJoA-1" value="Complete metric space" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="780" y="-2375" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="yE7slKLqn4e8WR9LVJoA-2" value="Inner product spaces" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="793.31" y="-2590" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="yE7slKLqn4e8WR9LVJoA-3" value="Hilbert Spaces" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="790" y="-2280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="yE7slKLqn4e8WR9LVJoA-4" value="Metric space" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="780" y="-2480" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
